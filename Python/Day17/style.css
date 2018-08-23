@@ -1,0 +1,55 @@
+.pg-header{
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    height: 76px;
+    background-color: lightseagreen;
+    line-height: 76px;
+}
+.pg-header .header {
+    width: 980px;
+    margin: 0 auto;
+}
+.pg-header .header .logo{
+    height: 76px;
+    float: left;
+}
+.pg-header .header .logo .img{
+    width: 76px;
+    height: 76px;
+}
+.pg-header .header .menu ul{
+    width: 450px;
+    height: 35px;
+    float: right;
+    margin-top: 30px;
+    margin-bottom: 11px;
+    line-height: 35px;
+}
+.pg-header .header .menu .menu_li{
+    width: 65px;
+    height: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 20px;
+    background-color: #5ab2ce;
+    line-height: 25px;
+    text-align: center;
+    list-style: none;
+    float: left;
+    font-size: 16px;
+    display: inline-block;
+}
+a:-webkit-any-link {
+color: #fff;
+text-decoration: none;
+cursor: pointer;
+}
+.pg-header .header .menu .menu_li:hover{
+    background-color: #7bc3d6;
+}
+
+.pg-body .bd_menu{
+    width: ;
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0"?>                 
+<Widevine><NumberOfKeyboxes>1</NumberOfKeyboxes><Keybox DeviceID="X705F100000002"><Key>620a10749648726543c42d1a9d68e3f3</Key><ID>00000002000023730e67f1eeff57d28f57822212385317beba47257930430aaf6fe7c16aca8d17796607b2b58deb309659c82229b14f42643196bf43aa59a2665d2db1c6c3830ebd</ID><Magic>6b626f78</Magic><CRC>e7b9165d</CRC></Keybox></Widevine>

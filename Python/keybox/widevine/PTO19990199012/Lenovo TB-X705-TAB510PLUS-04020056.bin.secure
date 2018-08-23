@@ -1,0 +1,2 @@
+<?xml version="1.0"?>                 
+<Widevine><NumberOfKeyboxes>1</NumberOfKeyboxes><Keybox DeviceID="LenovoTAB510Plus100000056"><Key>a366b70f3e7041dbc5bc4cfc3c149ca1</Key><ID>00000002000022690130a5b1f92b1dc997404a6769b68a8d0bda7a80bb5e23508a9e226419bb5f48e80c7d7c2fc7d0fbd53bf380b525c01be80c04deb96b0bf2e6b3810542dfb74e</ID><Magic>6b626f78</Magic><CRC>347ad15c</CRC></Keybox></Widevine>
